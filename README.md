@@ -1,5 +1,5 @@
 
-Hi there! 👋 I'm [AYUB SAID / @aoubak ]
+Hi there! 👋 I'm AYUB SAID / @aoubak 
 
 - 🚀 About Me
 - 🎯 Passionate about IT, computer hardware, and software.
