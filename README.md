@@ -1,11 +1,5 @@
-- 👋 Hi, I’m @aoubak
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-Hi there! 👋 I'm [AYUB SAID / AOUB AK ]
+
+Hi there! 👋 I'm [AYUB SAID / @aoubak ]
 
 - 🚀 About Me
 - 🎯 Passionate about IT, computer hardware, and software.
@@ -24,17 +18,6 @@ Check out my YouTube channel where I share insights on computers, laptops, and I
 🔗 Connect with Me
 
 📧 ![Email](aoubak01@gmail.com)
-
-💼 ![LinkedIn]
-
-🐦 Twitter
-
-📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark)
-
-
 
 
 ⭐ "Technology is best when it brings people together." – Matt Mullenweg
