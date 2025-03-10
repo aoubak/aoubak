@@ -17,7 +17,9 @@ Check out my YouTube channel :[📺 AOUBAK] - Click Here (https://www.youtube.co
 
 🔗 Connect with Me
 
-📧 [Email](mailto:aoubak01@gmail.com)
+- 📧 [Email](mailto:aoubak01@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/aoub-ak-682b94230)
+- 🐦 [Twitter](https://twitter.com/@aoub_ak)
 
 
 ⭐ "Technology is best when it brings people together." – Matt Mullenweg
