@@ -13,7 +13,7 @@ Hi there! 👋 I'm [AYUB SAID / @aoubak ]
 - ⚡ Hardware Interests: Laptop performance, CPU/GPU optimization, malware protection
 - 🎥 My YouTube Channel
 
-Check out my YouTube channel where I share insights on computers, laptops, and IT topics:[📺 AOUBAK] - Click Here
+Check out my YouTube channel :[📺 AOUBAK] - Click Here (https://www.youtube.com/aoubak)
 
 🔗 Connect with Me
 
