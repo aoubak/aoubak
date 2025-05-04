@@ -1,17 +1,41 @@
 
 Hi there! 👋 I'm AYUB SAID / @aoubak 
 
-- 🚀 About Me
-- 🎯 Passionate about IT, computer hardware, and software.
-- 🎥 I work daily with  **Adobe After Effects** for video editing **Adobe Illustrator** & for Graphic design.
-- 🖥️ Interested in Web Development, UI/UX, and cybersecurity.
-- 🌱 Currently learning advanced video rendering techniques & **Latest Tech Web Development**
-- 🛠 Tech Stack
-- 💻 Languages & Scripting: PHP, Python, JavaScript, HTML, CSS
-- 📦 Frameworks & Libraries: React, Node.js, Laravel
-- 🖥️ Tools & Software: Adobe Premiere Pro, After Effects, Illustrator, Photoshop, VS Code, Git
-- ⚡ Hardware Interests: Laptop performance, CPU/GPU optimization, malware protection
-- 🎥 My YouTube Channel
+## 🚀 About Me
+
+-🎯 Passionate about IT, computer hardware, and software.
+
+-🎥 I work daily with **Adobe After Effects** for video editing and **Adobe Illustrator** for graphic design.
+
+-🖥️ Interested in **Web Development**, **UI/UX Design**, and **Cybersecurity**.
+
+-🌱 Currently learning advanced video rendering techniques and the **latest trends in web development**.
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Frontend Development
+- HTML5, CSS3, JavaScript (ES6+)
+- **Frameworks**: Tailwind CSS, Bootstrap
+- Responsive Web Design, Landing Pages, UI Design
+
+### 🖥️ Backend Development
+- PHP (Core PHP, OOP)
+- Laravel Framework
+- MySQL (Database Design & Queries)
+
+### 📦 Other Languages & Tools
+- Python (Basic Scripting)
+- Git & GitHub
+- VS Code, XAMPP
+- Adobe Suite: After Effects, Illustrator, Premiere Pro, Photoshop
+
+### ⚙️ Hardware Interests
+- Laptop performance optimization
+- CPU/GPU efficiency
+- Malware protection and system hardening
+
 
 Check out my YouTube channel :[📺 AOUBAK] - Click Here (https://www.youtube.com/@aoubak01)
 
