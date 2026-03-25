@@ -1,53 +1,104 @@
+<h1 align="center">Hi 👋, I'm Ayub Said</h1>
+<h3 align="center">💻 Developer • 🎨 Designer • 🚀 Tech Enthusiast</h3>
 
-Hi there! 👋 I'm AYUB SAID / @aoubak 
-
-## 🚀 About Me
-
--🎯 Passionate about IT, computer hardware, and software.
-
--🎥 I work daily with **Adobe After Effects** for video editing and **Adobe Illustrator** for graphic design.
-
--🖥️ Interested in **Web Development**, **UI/UX Design**, and **Cybersecurity**.
-
--🌱 Currently learning advanced video rendering techniques and the **latest trends in web development**.
+<p align="center">
+  <a href="https://www.youtube.com/@aoubak01">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UC?style=social" />
+  </a>
+  <a href="mailto:aoubak01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/aoub-ak-682b94230">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
+  </a>
+</p>
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 About Me
 
-### 💻 Frontend Development
-- HTML5, CSS3, JavaScript (ES6+)
-- **Frameworks**: Tailwind CSS, Bootstrap
-- Responsive Web Design, Landing Pages, UI Design
+💡 Passionate about **Technology, Software Development, and Hardware Optimization**  
+🎥 Daily user of **After Effects & Premiere Pro** for video production  
+🎨 Skilled in **Graphic Design & UI/UX** using Adobe tools  
+🛠 Focused on building **real-world systems & scalable solutions**  
+🔐 Interested in **Cybersecurity & System Protection**  
 
-### 🖥️ Backend Development
-- PHP (Core PHP, OOP)
-- Laravel Framework
-- MySQL (Database Design & Queries)
+🌱 Currently learning:
+- Advanced rendering workflows  
+- Modern web development trends  
+- Performance optimization techniques  
 
-### 📦 Other Languages & Tools
-- Python (Basic Scripting)
-- Git & GitHub
-- VS Code, XAMPP
-- Adobe Suite: After Effects, Illustrator, Premiere Pro, Photoshop
+---
 
-### ⚙️ Hardware Interests
-- Laptop performance optimization
-- CPU/GPU efficiency
-- Malware protection and system hardening
+## 🧠 Tech Stack
 
-### 📺 My YouTube Channel
-Check out my YouTube channel :[📺 AOUBAK] - Click Here (https://www.youtube.com/@aoubak01)
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nextjs" />
+</p>
 
-🔗 Connect with Me
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,mongodb,nodejs" />
+</p>
 
-- 📧 [Email](mailto:aoubak01@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/aoub-ak-682b94230)
-- 🐦 [Twitter](https://twitter.com/@aoub_ak)
+### 🧰 Tools & Software
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,ai,figma,photoshop,ae,docker,linkedin" />
+</p>
 
+### 🎬 Creative Tools
+- Adobe After Effects  
+- Adobe Illustrator  
+- Adobe Premiere Pro  
+- Adobe Photoshop  
 
-⭐ "Technology is best when it brings people together." – Matt Mullenweg
-<!---
-aoubak/aoubak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## ⚡ Special Interests
+
+🖥️ PC & Laptop Performance Optimization  
+⚙️ CPU / GPU Efficiency Tuning  
+🛡️ Malware Protection & System Security  
+📊 Building Practical Systems (Fuel Management, Rental Platforms, etc.)
+
+---
+
+## 📺 YouTube Channel
+
+🎬 I share tech, design, and development content:
+
+👉 **[Visit My Channel](https://www.youtube.com/@aoubak01)**
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="mailto:aoubak01@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/aoub-ak-682b94230">💼 LinkedIn</a> •
+  <a href="https://twitter.com/@aoub_ak">🐦 Twitter</a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aoubak&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aoubak&theme=tokyonight" />
+</p>
+
+---
+
+## ✨ Quote
+
+> "Technology is best when it brings people together."  
+> — Matt Mullenweg
+
+---
+
+<p align="center">
+  🚀 Building the future, one project at a time.
+</p>
